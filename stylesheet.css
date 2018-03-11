@@ -24,6 +24,8 @@ body > * {
 
 .whiteboard-main {
 	background-color: lightGreen;
+	display: flex;
+	flex-flow: column nowrap;
 }
 
 .cards-aside {
@@ -35,7 +37,8 @@ body > * {
 }
 
 .whiteboard-ads {
-	margin: 0 auto;
+	/* puts at bottom of container in flex column */
+	margin-top: auto;
 }
 
 .whiteboard-ads > * {

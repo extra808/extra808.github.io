@@ -1,0 +1,33 @@
+/* external stylesheet for testing on https://scholar.harvard.edu/ccwilcox/ */
+
+html body > div#page_wrap,
+html body > div#page_wrap div, 
+html body > div#page_wrap div div, 
+html body > div#page_wrap header,
+html body > div#page_wrap nav,
+html body > div#page_wrap div#menu-bar#menu-bar,
+html body > div#page_wrap div#menu-bar#menu-bar nav ul a,
+html body > div#page_wrap #header#header, 
+html body > div#page_wrap #footer#footer
+{
+  background: black;
+  background-color: black;
+  color: #DDD;
+}
+
+html body > div#page_wrap div#menu-bar#menu-bar nav ul a:hover,
+.search-block-form .container-inline .form-item .form-text, #search-block-form .container-inline .form-item 
+input[type="search"].form-text#edit-search-block-form--2, 
+html body > div#page_wrap div#powered-by a
+{
+  background-color: #666666;
+}
+
+html body > div#page_wrap a,
+html body > div#page_wrap div a, 
+html body > div#page_wrap div div a, 
+html body > div#page_wrap div div div a, 
+html body > div#page_wrap #header#header a
+{
+  color: #bbf;
+}

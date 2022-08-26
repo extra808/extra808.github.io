@@ -1,0 +1,29 @@
+#page, 
+#page #wrapper-navbar-main-top, 
+#page #wrapper-navbar-main, 
+#page #wrapper-navbar-main #navbar-main, 
+#page #wrapper-navbar-main #navbar-main::before, 
+#page #page-wrapper, 
+#page #wrapper-footer {
+  background: black;
+    background-color: black;
+  background-color: black;
+  color: #DDD;
+}
+
+#page .navbar-brand-text {
+  background: inherit;
+  color: inherit;
+}
+
+#page img {
+  background-color: #666666;
+}
+
+#page a[href], 
+#page #wrapper-navbar-main-top a[href], 
+#page #wrapper-navbar-main a[href], 
+#page #page-wrapper a[href], 
+#page #wrapper-footer a[href] {
+  color: #bbf;
+}

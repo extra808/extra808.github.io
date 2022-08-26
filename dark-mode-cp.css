@@ -4,6 +4,7 @@
 #page #wrapper-navbar-main #navbar-main, 
 #page #wrapper-navbar-main #navbar-main::before, 
 #page #page-wrapper, 
+#page .wp-block-cover__background,
 #page #wrapper-footer {
   background: black;
     background-color: black;

@@ -1,5 +1,5 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Google no-ai</ShortName>
+  <ShortName>Google noai</ShortName>
   <Description>Google Search without AI Overview</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="512" height="512" type="image/png">https://extra808.github.io/custom-searches/noai/noai-favicon.png</Image>

@@ -1,0 +1,12 @@
+body {
+	font-family: sans-serif;
+}
+
+p, ul, ol, dl, code {
+	max-width: 80ch;
+}
+
+code {
+	-webkit-user-select: all;
+	user-select: all;
+}

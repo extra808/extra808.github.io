@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Google no-ai</ShortName>
+  <Description>Google Search without AI Overview</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="512" height="512" type="image/png">https://extra808.github.io/custom-searches/noai/noai-favicon.png</Image>
+  <Url type="text/html" template="https://www.google.com/search?q={searchTerms}%20-ai"/>
+  <Url type="application/x-suggestions+json" template="https://www.google.com/complete/search?client=firefox&amp;q={searchTerms}%20-ai"/>
+  <moz:SearchForm>https://www.google.com/search</moz:SearchForm>
+</OpenSearchDescription>

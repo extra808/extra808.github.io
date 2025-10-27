@@ -21,7 +21,7 @@
   background-color: #666666;
 }
 
-#page a[href], 
+#page a[href]:not(.btn-secondary), 
 #page #wrapper-navbar-main-top a[href], 
 #page #wrapper-navbar-main a[href], 
 #page #page-wrapper a[href], 
